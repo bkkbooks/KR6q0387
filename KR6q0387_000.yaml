@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0387/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雲門麥浪懷禪師宗門設難
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X73/X73n1457.xml
+    old_id: X73n1457
+hash: sha256:59629a7aa852387251d506dc8e77189fe201b4a285e73149b59c6a20f1288d6e

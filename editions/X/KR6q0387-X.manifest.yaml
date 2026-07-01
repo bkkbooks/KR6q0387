@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6q0387/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0387/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 雲門麥浪懷禪師宗門設難
+  identifiers:
+    krp: KR6q0387
+    cbeta: X73n1457
+    cbeta_old_id: X73n1457
+    authorityid: CA0003920
+    json_key: X1457
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X73/X73n1457.xml
+    old_id: X73n1457
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0387_000-X.yaml, hash: 'sha256:59629a7aa852387251d506dc8e77189fe201b4a285e73149b59c6a20f1288d6e'}
+  - {seq: 1, filename: KR6q0387_001-X.yaml, hash: 'sha256:51805994ac301d122938c17cddf93493188675a9c1b0fb7dca8625f17d9a3f50'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0387_000-X.markers.yaml, hash: 'sha256:860290bf4bf2fb9e36814d16712965937a03ea7f82df30f28ae77412f1a3acdf'}
+  - {seq: 1, role: markers, filename: assets/KR6q0387_001-X.markers.yaml, hash: 'sha256:1a28563cbfbb0586be6def93376a93e47d11561a66aef5762a43ad14a22be9a9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0387_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7802
+  label: 雲門麥浪懷禪師宗門設難
+  type: juan
+  level: 1
+hash: sha256:2f8200e7d101124cf82cbc54265a53409a485d067792b3369b69bd1ac3ccec63

@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6q0387/v1
+canonical_location: https://kanripo.org/bkk/KR6q0387/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雲門麥浪懷禪師宗門設難
+  identifiers:
+    alt_id:
+    - X73n1457
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X73/X73n1457.xml
+    old_id: X73n1457
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0387_000.yaml, hash: 'sha256:59629a7aa852387251d506dc8e77189fe201b4a285e73149b59c6a20f1288d6e'}
+  - {seq: 1, filename: KR6q0387_001.yaml, hash: 'sha256:7f90eec3b3be19b9683fb143dcceb60843d223b2f8555bd55218533acb8a5923'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0387_001.markers.yaml, hash: 'sha256:739b74285ede8e6a5de26700ebff52d4264852178b7f4b95fdec57f010423a47'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0387_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7802
+  label: 雲門麥浪懷禪師宗門設難
+  type: juan
+  level: 1
+hash: sha256:21a7fe57fd8fed24edf808304e0416fd708a96f741bd76b3e1401b7057075cc8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
