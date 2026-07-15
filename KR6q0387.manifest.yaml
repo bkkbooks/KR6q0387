@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0387/v1
 canonical_location: https://kanripo.org/bkk/KR6q0387/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雲門麥浪懷禪師宗門設難
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0387_000.yaml, hash: 'sha256:59629a7aa852387251d506dc8e77189fe201b4a285e73149b59c6a20f1288d6e'}
-  - {seq: 1, filename: KR6q0387_001.yaml, hash: 'sha256:51805994ac301d122938c17cddf93493188675a9c1b0fb7dca8625f17d9a3f50'}
+  - {seq: 1, filename: KR6q0387_001.yaml, hash: 'sha256:63fc6aa440e400972a7acc2418e398d6ec206e8022dbe2fb31b73bb58550c972'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0387_000.markers.yaml, hash: 'sha256:7b1a3b9acd47eda37c3da06527fcd65257ccc325ff2bb53caf0d6021a45f08ad'}
-  - {seq: 1, role: markers, filename: assets/KR6q0387_001.markers.yaml, hash: 'sha256:613a954b8b4e9e2a12f3c35d41ee2c3ab19f953088adb9d88a3bd5194e3491f6'}
+  - {seq: 1, role: markers, filename: assets/KR6q0387_001.markers.yaml, hash: 'sha256:43c3bbfc2c6c265cc516c00b3dcaa61b8a8848553e3d4c917859f62e7e0e63fc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 雲門麥浪懷禪師宗門設難
   type: juan
   level: 1
-hash: sha256:bdbbaab108ee5649f700c1cd792c6c6a2e7367cfc872171d123aea2f442a52ab
+hash: sha256:801a0fe7fed3244b72ed328a2975f2de2cd719438ccd55d267a61d2dd1eff4b4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
